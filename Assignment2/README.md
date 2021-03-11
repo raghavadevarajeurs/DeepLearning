@@ -14,5 +14,5 @@ Part 2: [Google AutoML Vision and Timeseries Forcasting Models](https://github.c
  - Deployment of a vision model using automl to mobile device
  - Execution of timeseries forcasting models on google AI platform notebook using BigQuery
 
-Video Walk Through: [https://www.youtube.com/watch?v=rQxfDCqJLOA](https://www.youtube.com/watch?v=rQxfDCqJLOA)
+Video Walk Through: [https://youtu.be/RHoqAwMVkyI](https://youtu.be/RHoqAwMVkyI)
 -
