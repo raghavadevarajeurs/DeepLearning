@@ -16,3 +16,4 @@ Part 2: [Google AutoML Vision and Timeseries Forcasting Models](https://github.c
 
 Video Walk Through: [https://youtu.be/RHoqAwMVkyI](https://youtu.be/RHoqAwMVkyI)
 -
+- [CMPE 258 Assignment 2 Video Walkthrough.mp4](https://github.com/raghavadevarajeurs/DeepLearning/blob/main/Assignment2/CMPE%20258%20Assignment%202%20Video%20Walkthrough.mp4)
