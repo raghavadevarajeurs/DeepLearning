@@ -3,7 +3,6 @@ Assignment 3: Build a 3 layer Neural Network using Numpy, Pytorch and Tensorflow
 Part A
 -
 Build a 3 layer Neural Network (with relu nonlinearity) to train on data with 3 dimensions input and 2 dimensions output using numpy.
-
 Performance comparision of implemented neural network output with and without nonlinearity using metrics and visual representation.
 
 Part B1
