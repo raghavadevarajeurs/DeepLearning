@@ -1,9 +1,9 @@
 Assignment 4: MNIST classifier with just numpy and keras
 -
 
-Part A: Implement MNIST classifier using just numpy neural network
+Part 1: [Implement MNIST classifier using just numpy neural network](https://github.com/raghavadevarajeurs/DeepLearning/blob/main/Assignment4/MINST_classifier_with_basic_numpy.ipynb)
 -
-Part B: Implement MNIST classifier using Keras
+Part 2: [Implement MNIST classifier using Keras](https://github.com/raghavadevarajeurs/DeepLearning/blob/main/Assignment4/MNIST_classifier_with_Keras.ipynb)
 -
 Have implemented the following:
 * ReLU Activations
