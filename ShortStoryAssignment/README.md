@@ -9,3 +9,7 @@ In this article, we will look at the available approaches in Deep learning and C
 [Video Presenation](https://github.com/raghavadevarajeurs/DeepLearning/blob/main/ShortStoryAssignment/Deep%20Learning%20in%20Fashion%20Industry_Raghava.mp4)
 -
 
+References:
+-
+<> Gong, Wei and Laila Khalid. “Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion.” ArXiv abs/2101.08301 (2021): n. pag.
+<> Gu, Xiaoling et al. “Fashion analysis and understanding with artificial intelligence.” Inf. Process. Manag. 57 (2020): 102276.
