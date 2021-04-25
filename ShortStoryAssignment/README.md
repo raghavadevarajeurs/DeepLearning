@@ -6,7 +6,7 @@ Medium Article : [https://raghavadurs.medium.com/deep-learning-in-fashion-indust
 -
 Slide Share : [https://www.slideshare.net/RaghavaUrs/deep-learning-in-fashion-industry](https://www.slideshare.net/RaghavaUrs/deep-learning-in-fashion-industry)
 -
-Video Presenation : [https://www.youtube.com/watch?v=gmSVswoDmg8](https://www.youtube.com/watch?v=gmSVswoDmg8) 
+Video Presentation : [https://www.youtube.com/watch?v=gmSVswoDmg8](https://www.youtube.com/watch?v=gmSVswoDmg8) 
 -
 
 References:
