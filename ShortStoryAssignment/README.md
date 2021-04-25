@@ -11,5 +11,5 @@ In this article, we will look at the available approaches in Deep learning and C
 
 References:
 -
-<> Gong, Wei and Laila Khalid. “Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion.” ArXiv abs/2101.08301 (2021): n. pag.
-<> Gu, Xiaoling et al. “Fashion analysis and understanding with artificial intelligence.” Inf. Process. Manag. 57 (2020): 102276.
+* Gong, Wei and Laila Khalid. “[Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion.](https://arxiv.org/pdf/2101.08301.pdf)” ArXiv abs/2101.08301 (2021): n. pag.
+* Gu, Xiaoling et al. “[Fashion analysis and understanding with artificial intelligence.](https://www.sciencedirect.com/science/article/abs/pii/S0306457319315511)” Inf. Process. Manag. 57 (2020): 102276.
